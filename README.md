@@ -1,5 +1,5 @@
 # Reckoner
-CLI data parser and explorer. Parse, query, or explore data dynamically.
+A 🚀***BLAZING FAST***🚀CLI data parser and explorer. Parse, query, or explore data dynamically.
 
 ## How to use
 
